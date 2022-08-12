@@ -1,4 +1,3 @@
 # Python-TicTacToe-TK-Gui
 Hey, This is my tictactoe project in python.
-
-# Made By Av1v7.
+# Project Maded By Av1v7. All Rights Reserved.
